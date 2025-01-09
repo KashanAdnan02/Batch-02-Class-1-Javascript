@@ -36,3 +36,28 @@
 // var a$_kjsfhskljhg2945782 = true
 
 // alert(a)
+
+// asdasdasda
+
+/*
+jkfhsfkladfa
+sdfasdfasd
+fasd
+f
+asdf
+asd
+f
+sdf
+sd
+f
+sd
+f
+asdf
+asd
+f
+*/
+
+
+var a = "Sir Kashan"
+var num = 67985467
+var boolean = true 
