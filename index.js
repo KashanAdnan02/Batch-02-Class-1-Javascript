@@ -23,7 +23,7 @@
 
 // boolean
 
-// undefiend
+// undefiend  
 
 // null
 
@@ -58,6 +58,6 @@ f
 */
 
 
-var a = "Sir Kashan"
-var num = 67985467
-var boolean = true 
+// var a = "Sir Kashan"
+// var num = 67985467
+// var boolean = true 
